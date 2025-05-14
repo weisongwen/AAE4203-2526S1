@@ -5,7 +5,7 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
 - **Lecturer**: Dr. Weisong Wen, Department of Aeronautical and Aviation Engineering (AAE)
 - **Address**: R820, PolyU 
 - **Email**: welson.wen@polyu.edu.hk
-- **Teaching Assistant**: Ruijie Xu, Xikun Liu, Yuan Li, Yihan Zhong
+- **Teaching Assistant**: Yixin Gao, Xikun Liu
 - **Lecture Venue and Time**: To be determined
 
 ## Class Schedule
@@ -15,10 +15,10 @@ This is the Github page for lecture AAE4203, Guidance and Navigation. This page 
 | Week 1    | Fundamental concepts | Assignment 1 |
 | Week 2    | Satellite Navigation-I (GNSS SPP, linear least squares) | Assignment 1 |
 | Week 3    | Satellite Navigation-II (GNSS Doppler, linear least squares for velocity estimation) | Assignment 1 |
-| Week 4    | No Lectures | Assignment 1 |
-| Week 5    | Satellite Navigation-III (GNSS RTK, DGNSS, linear least squares for RTK estimation) | Assignment 1 |
-| Week 6    | Tutorial on Coding with Python for GNSS positioning | Assignment 1 |
-| Week 7    | Satellite Navigation-IV | Assignment 1 |
+| Week 4    | Satellite Navigation-III (GNSS RTK, DGNSS, linear least squares for RTK estimation) | Assignment 1 |
+| Week 5    | Tutorial on Coding with Python for GNSS positioning | Assignment 1 |
+| Week 6    | Satellite Navigation-IV | Assignment 1 |
+| Week 7    | Reading Week (Self-study materials, no in-classroom lecture) | Assignment 1 |
 | Week 8    | Mid-term | Assignment 1 Deadline |
 | Week 9    | Visual positioning II: visual pose estimation | Assignment 2 |
 | Week 10   | Kalman filtering for GNSS positioning and sensor integration: part I | Assignment 2 |
