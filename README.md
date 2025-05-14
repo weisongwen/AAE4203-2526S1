@@ -3,10 +3,10 @@
 This is the Github page for lecture AAE4203, Guidance and Navigation. This page will include the example code and learning materials for the 2025/2026 academic year. More importantly, students can raise issues through the Issues section of this repository.
 
 - **Lecturer**: Dr. Weisong Wen, Department of Aeronautical and Aviation Engineering (AAE)
-- **Address**: PQ408, PolyU 
+- **Address**: R820, PolyU 
 - **Email**: welson.wen@polyu.edu.hk
 - **Teaching Assistant**: Ruijie Xu, Xikun Liu, Yuan Li, Yihan Zhong
-- **Lecture Venue and Time**: BC303, Thu 15:30-18:20
+- **Lecture Venue and Time**: To be determined
 
 ## Class Schedule
 
